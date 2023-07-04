@@ -1,6 +1,5 @@
 #studentInfo
 name = "Aiman Nawar Chowdhury, "
-ID = "UCID: 30174339"
 print("%s" %(name+ID))
 print("%s" %("Mini-pre-A1"))
 print("""Version: 20-Sep, 2022.
