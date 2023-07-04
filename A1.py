@@ -1,6 +1,5 @@
 #studentInfo
 #name = Aiman Nawar Chowdhury
-#ID = UCID: 30174339
 #Version: 10 Oct, 2022. 
 
 print("%50s" %("Dungeon of Doom"))
