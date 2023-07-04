@@ -1,6 +1,5 @@
 #studentInfo
 #name = Aiman Nawar Chowdhury
-#ID = UCID: 30174339
 #Version: 03 Oct, 2022.
 #Learning objective:
 #Defining and using named constants, use of Branching and Looping.
