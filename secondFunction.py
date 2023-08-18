@@ -1,5 +1,4 @@
 #studentInfo
-#ID = UCID: 30174339
 #Version: 23 Oct, 2022. (Parameter passing, Function return values)
 #code start function
 #start done, code input    
